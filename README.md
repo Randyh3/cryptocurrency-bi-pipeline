@@ -9,7 +9,7 @@ This project demonstrates the design and implementation of an end-to-end Busines
 ## Project Objectives
 
 - Assess and improve data quality
-- Perform ETL using Power Query
+- Perform ETL using Power Query      
 - Build a relational database
 - Create SQL views for reporting
 - Develop interactive Tableau dashboards
@@ -66,6 +66,7 @@ Successfully developed an end-to-end business intelligence solution capable of t
 ## Author
 
 Randy Hernandez
+
 Business Administration (Computer Information Systems)
 
 California State Polytechnic University, Pomona
