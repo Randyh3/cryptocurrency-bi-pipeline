@@ -66,3 +66,6 @@ Successfully developed an end-to-end business intelligence solution capable of t
 ## Author
 
 Randy Hernandez
+Business Administration (Computer Information Systems)
+
+California State Polytechnic University, Pomona
