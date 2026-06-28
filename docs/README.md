@@ -37,8 +37,6 @@ cryptocurrency-bi-pipeline/
 ├── data/
 ├── docs/
 ├── images/
-├── presentation/
-├── python/
 ├── sql/
 
 README.md
