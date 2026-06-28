@@ -39,6 +39,7 @@ cryptocurrency-bi-pipeline/
 ├── images/
 ├── sql/
 
+LICENSE
 README.md
 ```
 
